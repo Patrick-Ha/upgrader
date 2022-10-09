@@ -2,11 +2,12 @@
 <rss version="2.0" 
 xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>Phuong Hai - Appcast</title>
         <item>
-            <title>Version 1.5.0</title>
-            <description>desc</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <title>Version 1.3.4</title>
+            <enclosure url="https://play.google.com/store/apps/details?id=app.phuonghai" 
+sparkle:version="1.3.4" 
+sparkle:os="android" />
         </item>
     </channel>
 </rss>
